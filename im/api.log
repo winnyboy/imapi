@@ -1,0 +1,377 @@
+[INFO ] 2017-11-17 17:07:52,638 com.huione.im.api.ImApplicationTests - Starting ImApplicationTests on DESKTOP-PHL0HAA with PID 528 (started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-17 17:07:52,639 com.huione.im.api.ImApplicationTests - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-17 17:07:52,639 com.huione.im.api.ImApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-17 17:07:57,058 com.huione.im.api.ImApplicationTests - Started ImApplicationTests in 4.72 seconds (JVM running for 6.284)
+[INFO ] 2017-11-17 17:58:11,793 com.huione.im.api.ImApplicationTests - Starting ImApplicationTests on DESKTOP-PHL0HAA with PID 3084 (started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-17 17:58:11,794 com.huione.im.api.ImApplicationTests - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-17 17:58:11,794 com.huione.im.api.ImApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-17 17:58:15,812 com.huione.im.api.ImApplicationTests - Started ImApplicationTests in 4.337 seconds (JVM running for 5.593)
+[INFO ] 2017-11-19 14:38:22,678 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 9904 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-19 14:38:22,678 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-19 14:38:22,679 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-19 14:38:29,116 com.huione.im.api.ImApplication - Started ImApplication in 6.755 seconds (JVM running for 8.425)
+[INFO ] 2017-11-20 09:50:34,998 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 5032 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-20 09:50:34,998 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-20 09:50:34,999 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-20 09:50:40,231 com.huione.im.api.ImApplication - Started ImApplication in 5.849 seconds (JVM running for 7.495)
+[INFO ] 2017-11-20 09:53:05,792 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[INFO ] 2017-11-20 09:55:07,859 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[INFO ] 2017-11-20 09:55:38,456 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 10500 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-20 09:55:38,456 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-20 09:55:38,456 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-20 09:55:42,760 com.huione.im.api.ImApplication - Started ImApplication in 4.663 seconds (JVM running for 5.647)
+[INFO ] 2017-11-20 09:55:51,534 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[ERROR] 2017-11-20 09:55:51,839 com.huione.im.api.controller.OrgInfoController - nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+### The error may exist in file [C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes\mybatis\Org_Info_Mapper.xml]
+### The error may involve com.huione.im.api.dao.OrgInfoDao.select
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+[INFO ] 2017-11-20 09:56:26,013 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 3428 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-20 09:56:26,013 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-20 09:56:26,013 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-20 09:56:30,365 com.huione.im.api.ImApplication - Started ImApplication in 4.623 seconds (JVM running for 5.544)
+[INFO ] 2017-11-20 09:56:46,373 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-20 09:56:46,803 com.huione.im.api.controller.OrgInfoController - data found
+[INFO ] 2017-11-20 12:01:47,134 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-20 12:01:47,235 com.huione.im.api.controller.OrgInfoController - save org data ok
+[INFO ] 2017-11-20 12:03:17,900 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[ERROR] 2017-11-20 12:03:17,916 com.huione.im.api.controller.OrgInfoController - nested exception is org.apache.ibatis.reflection.ReflectionException: Could not set property 'emp_name' of 'class com.huione.im.api.entity.OrgInfo' with value '天为' Cause: org.apache.ibatis.reflection.ReflectionException: There is no setter for property named 'emp_name' in 'class com.huione.im.api.entity.OrgInfo'
+[INFO ] 2017-11-20 12:03:46,138 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[ERROR] 2017-11-20 12:03:46,141 com.huione.im.api.controller.OrgInfoController - nested exception is org.apache.ibatis.reflection.ReflectionException: Could not set property 'emp_name' of 'class com.huione.im.api.entity.OrgInfo' with value '天为' Cause: org.apache.ibatis.reflection.ReflectionException: There is no setter for property named 'emp_name' in 'class com.huione.im.api.entity.OrgInfo'
+[INFO ] 2017-11-20 13:01:09,250 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 11156 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-20 13:01:09,251 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-20 13:01:09,251 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-20 13:01:13,603 com.huione.im.api.ImApplication - Started ImApplication in 4.656 seconds (JVM running for 5.611)
+[INFO ] 2017-11-20 13:01:27,628 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-20 13:01:28,058 com.huione.im.api.controller.OrgInfoController - save org data ok
+[INFO ] 2017-11-20 13:03:31,260 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-20 13:03:31,271 com.huione.im.api.controller.OrgInfoController - save org data ok
+[INFO ] 2017-11-20 13:04:25,652 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-20 13:04:26,286 com.huione.im.api.controller.OrgInfoController - save org data ok
+[INFO ] 2017-11-20 16:23:40,020 com.huione.im.api.ImApplicationTests - Starting ImApplicationTests on DESKTOP-PHL0HAA with PID 6632 (started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-20 16:23:40,020 com.huione.im.api.ImApplicationTests - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-20 16:23:40,021 com.huione.im.api.ImApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-20 16:23:43,639 com.huione.im.api.ImApplicationTests - Started ImApplicationTests in 3.911 seconds (JVM running for 5.132)
+[INFO ] 2017-11-20 17:39:28,028 com.huione.im.api.ImApplicationTests - Starting ImApplicationTests on DESKTOP-PHL0HAA with PID 11440 (started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-20 17:39:28,028 com.huione.im.api.ImApplicationTests - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-20 17:39:28,029 com.huione.im.api.ImApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-20 17:39:32,459 com.huione.im.api.ImApplicationTests - Started ImApplicationTests in 4.741 seconds (JVM running for 6.018)
+[INFO ] 2017-11-21 09:46:51,225 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 4172 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-21 09:46:51,225 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-21 09:46:51,226 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-21 09:46:56,833 com.huione.im.api.ImApplication - Started ImApplication in 5.973 seconds (JVM running for 7.564)
+[INFO ] 2017-11-21 09:51:12,300 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-21 09:51:12,313 com.huione.im.api.controller.GroupConfigController - find user's groups
+[ERROR] 2017-11-21 09:51:14,594 com.huione.im.api.controller.GroupConfigController - nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+### The error may exist in file [C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes\mybatis\Group_Config_Mapper.xml]
+### The error may involve com.huione.im.api.dao.GroupConfigDao.select
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[INFO ] 2017-11-21 09:51:44,353 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 9312 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-21 09:51:44,353 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-21 09:51:44,353 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-21 09:51:53,228 com.huione.im.api.ImApplication - Started ImApplication in 9.152 seconds (JVM running for 10.072)
+[INFO ] 2017-11-21 09:51:56,139 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-21 09:51:56,159 com.huione.im.api.controller.GroupConfigController - find user's groups
+[DEBUG] 2017-11-21 09:51:56,551 com.huione.im.api.controller.GroupConfigController - data found
+[INFO ] 2017-11-21 09:52:16,727 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-21 09:52:16,728 com.huione.im.api.controller.GroupConfigController - begin delete group
+[INFO ] 2017-11-21 10:25:49,494 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 7676 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-21 10:25:49,494 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-21 10:25:49,494 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-21 10:33:46,140 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 8808 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-21 10:33:46,141 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-21 10:33:46,142 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-21 10:35:36,437 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 3792 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-21 10:35:36,437 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-21 10:35:36,446 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-21 10:35:40,903 com.huione.im.api.ImApplication - Started ImApplication in 4.744 seconds (JVM running for 5.644)
+[INFO ] 2017-11-21 10:36:43,721 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-21 10:36:43,756 com.huione.im.api.controller.GroupConfigController - find user's groups
+[ERROR] 2017-11-21 10:39:13,567 com.huione.im.api.controller.GroupConfigController - nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Connections could not be acquired from the underlying database!
+### The error may exist in file [C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes\mybatis\Group_Config_Mapper.xml]
+### The error may involve com.huione.im.api.dao.GroupConfigDao.select
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Connections could not be acquired from the underlying database!
+[INFO ] 2017-11-21 10:45:59,556 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 11644 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-21 10:45:59,556 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-21 10:45:59,556 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-21 10:46:04,779 com.huione.im.api.ImApplication - Started ImApplication in 5.481 seconds (JVM running for 6.486)
+[INFO ] 2017-11-21 10:46:51,107 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-21 10:46:51,130 com.huione.im.api.controller.GroupConfigController - find user's groups
+[ERROR] 2017-11-21 10:49:20,947 com.huione.im.api.controller.GroupConfigController - nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Connections could not be acquired from the underlying database!
+### The error may exist in file [C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes\mybatis\Group_Config_Mapper.xml]
+### The error may involve com.huione.im.api.dao.GroupConfigDao.select
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Connections could not be acquired from the underlying database!
+[INFO ] 2017-11-21 10:50:34,573 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 1312 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-21 10:50:34,573 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-21 10:50:34,573 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-21 10:50:38,997 com.huione.im.api.ImApplication - Started ImApplication in 4.705 seconds (JVM running for 5.667)
+[INFO ] 2017-11-21 10:50:44,354 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-21 10:50:44,376 com.huione.im.api.controller.GroupConfigController - find user's groups
+[ERROR] 2017-11-21 10:50:44,503 com.huione.im.api.controller.GroupConfigController - nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: The url cannot be null
+### The error may exist in file [C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes\mybatis\Group_Config_Mapper.xml]
+### The error may involve com.huione.im.api.dao.GroupConfigDao.select
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: The url cannot be null
+[INFO ] 2017-11-21 10:51:23,990 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 5888 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-21 10:51:23,990 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-21 10:51:23,991 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-21 10:51:28,416 com.huione.im.api.ImApplication - Started ImApplication in 4.708 seconds (JVM running for 5.638)
+[INFO ] 2017-11-21 10:51:34,193 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-21 10:51:34,209 com.huione.im.api.controller.GroupConfigController - find user's groups
+[DEBUG] 2017-11-21 10:51:34,629 com.huione.im.api.controller.GroupConfigController - data found
+[INFO ] 2017-11-21 10:52:16,828 com.huione.im.api.ImApplicationTests - Starting ImApplicationTests on DESKTOP-PHL0HAA with PID 3716 (started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-21 10:52:16,828 com.huione.im.api.ImApplicationTests - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-21 10:52:16,828 com.huione.im.api.ImApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-21 10:52:20,641 com.huione.im.api.ImApplicationTests - Started ImApplicationTests in 4.092 seconds (JVM running for 5.307)
+[INFO ] 2017-11-21 11:10:16,001 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 12860 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-21 11:10:16,001 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-21 11:10:16,001 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-21 11:10:19,580 com.huione.im.api.ImApplication - Started ImApplication in 3.844 seconds (JVM running for 4.75)
+[INFO ] 2017-11-21 11:10:24,607 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-21 11:10:24,621 com.huione.im.api.controller.GroupConfigController - find user's groups
+[ERROR] 2017-11-21 11:10:28,891 com.huione.im.api.controller.GroupConfigController - nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+### The error may exist in file [C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes\mybatis\Group_Config_Mapper.xml]
+### The error may involve com.huione.im.api.dao.GroupConfigDao.select
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+[INFO ] 2017-11-21 11:10:45,625 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 6888 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-21 11:10:45,625 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-21 11:10:45,626 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-21 11:10:49,501 com.huione.im.api.ImApplication - Started ImApplication in 4.148 seconds (JVM running for 5.12)
+[INFO ] 2017-11-21 11:10:53,121 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-21 11:10:53,137 com.huione.im.api.controller.GroupConfigController - find user's groups
+[DEBUG] 2017-11-21 11:10:53,529 com.huione.im.api.controller.GroupConfigController - data found
+[INFO ] 2017-11-21 11:11:34,375 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[INFO ] 2017-11-21 11:12:15,022 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 12216 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-21 11:12:15,022 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-21 11:12:15,038 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-21 11:12:18,918 com.huione.im.api.ImApplication - Started ImApplication in 4.202 seconds (JVM running for 5.243)
+[INFO ] 2017-11-21 11:12:39,704 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-21 11:12:39,717 com.huione.im.api.controller.GroupConfigController - find user's groups
+[ERROR] 2017-11-21 11:12:39,717 com.huione.im.api.controller.GroupConfigController - null
+[INFO ] 2017-11-21 11:14:55,847 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 4664 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-21 11:14:55,848 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-21 11:14:55,848 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-21 11:14:59,836 com.huione.im.api.ImApplication - Started ImApplication in 4.303 seconds (JVM running for 5.231)
+[INFO ] 2017-11-21 11:15:31,636 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-21 11:15:31,649 com.huione.im.api.controller.GroupConfigController - find user's groups
+[DEBUG] 2017-11-21 11:15:32,063 com.huione.im.api.controller.GroupConfigController - data found
+[INFO ] 2017-11-21 11:15:53,606 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-21 11:15:53,606 com.huione.im.api.controller.GroupConfigController - find user's groups
+[DEBUG] 2017-11-21 11:15:53,610 com.huione.im.api.controller.GroupConfigController - data found
+[INFO ] 2017-11-21 11:16:19,665 com.huione.im.api.ImApplicationTests - Starting ImApplicationTests on DESKTOP-PHL0HAA with PID 12384 (started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-21 11:16:19,665 com.huione.im.api.ImApplicationTests - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-21 11:16:19,665 com.huione.im.api.ImApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-21 11:16:23,467 com.huione.im.api.ImApplicationTests - Started ImApplicationTests in 4.096 seconds (JVM running for 5.35)
+[INFO ] 2017-11-23 09:15:57,200 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 7912 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-23 09:15:57,200 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-23 09:15:57,200 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-23 09:16:04,701 com.huione.im.api.ImApplication - Started ImApplication in 7.876 seconds (JVM running for 9.421)
+[INFO ] 2017-11-23 09:16:48,110 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 9112 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-23 09:16:48,111 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-23 09:16:48,111 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-23 09:16:55,567 com.huione.im.api.ImApplication - Started ImApplication in 7.826 seconds (JVM running for 10.387)
+[INFO ] 2017-11-23 09:17:35,794 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-23 09:17:42,847 com.huione.im.api.controller.GroupConfigController - find user's groups
+[DEBUG] 2017-11-23 09:17:57,001 com.huione.im.api.controller.GroupConfigController - data found
+[INFO ] 2017-11-23 09:18:37,491 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-23 09:18:39,030 com.huione.im.api.controller.GroupConfigController - find user's groups
+[DEBUG] 2017-11-23 09:18:56,329 com.huione.im.api.controller.GroupConfigController - data found
+[INFO ] 2017-11-23 09:19:34,611 com.huione.im.api.ImApplicationTests - Starting ImApplicationTests on DESKTOP-PHL0HAA with PID 12520 (started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-23 09:19:34,612 com.huione.im.api.ImApplicationTests - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-23 09:19:34,612 com.huione.im.api.ImApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-23 09:19:40,016 com.huione.im.api.ImApplicationTests - Started ImApplicationTests in 5.777 seconds (JVM running for 7.374)
+[INFO ] 2017-11-23 09:20:41,817 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 8016 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-23 09:20:41,818 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-23 09:20:41,818 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-23 09:20:46,808 com.huione.im.api.ImApplication - Started ImApplication in 5.272 seconds (JVM running for 6.273)
+[INFO ] 2017-11-23 09:20:54,130 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-23 09:20:54,146 com.huione.im.api.controller.GroupConfigController - find user's groups
+[ERROR] 2017-11-23 09:20:58,427 com.huione.im.api.controller.GroupConfigController - nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+### The error may exist in file [C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes\mybatis\Group_Config_Mapper.xml]
+### The error may involve com.huione.im.api.dao.GroupConfigDao.select
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+[INFO ] 2017-11-23 09:21:12,492 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 8484 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-23 09:21:12,492 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-23 09:21:12,493 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-23 09:21:18,057 com.huione.im.api.ImApplication - Started ImApplication in 5.89 seconds (JVM running for 7.04)
+[INFO ] 2017-11-23 09:21:23,049 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-23 09:21:28,515 com.huione.im.api.controller.GroupConfigController - find user's groups
+[DEBUG] 2017-11-23 09:21:37,637 com.huione.im.api.controller.GroupConfigController - data found
+[INFO ] 2017-11-23 09:21:45,019 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-23 09:21:46,570 com.huione.im.api.controller.GroupConfigController - find user's groups
+[DEBUG] 2017-11-23 09:21:52,088 com.huione.im.api.controller.GroupConfigController - data found
+[INFO ] 2017-11-23 09:23:42,279 com.huione.im.api.ImApplicationTests - Starting ImApplicationTests on DESKTOP-PHL0HAA with PID 9324 (started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-23 09:23:42,280 com.huione.im.api.ImApplicationTests - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-23 09:23:42,280 com.huione.im.api.ImApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-23 09:23:46,479 com.huione.im.api.ImApplicationTests - Started ImApplicationTests in 4.498 seconds (JVM running for 5.742)
+[INFO ] 2017-11-29 09:31:25,419 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 16928 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-29 09:31:25,419 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-29 09:31:25,419 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-29 09:31:31,246 com.huione.im.api.ImApplication - Started ImApplication in 6.108 seconds (JVM running for 7.356)
+[INFO ] 2017-11-29 09:31:58,802 com.huione.im.api.ImApplicationTests - Starting ImApplicationTests on DESKTOP-PHL0HAA with PID 1984 (started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-29 09:31:58,802 com.huione.im.api.ImApplicationTests - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-29 09:31:58,811 com.huione.im.api.ImApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-29 09:32:03,355 com.huione.im.api.ImApplicationTests - Started ImApplicationTests in 4.824 seconds (JVM running for 6.07)
+[INFO ] 2017-11-29 09:46:15,967 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 13140 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-29 09:46:15,967 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-29 09:46:15,967 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-29 09:47:01,543 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 16224 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-29 09:47:01,559 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-29 09:47:01,559 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-29 09:47:06,827 com.huione.im.api.ImApplication - Started ImApplication in 5.565 seconds (JVM running for 6.96)
+[INFO ] 2017-11-29 09:47:43,982 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-29 09:47:43,996 com.huione.im.api.controller.GroupConfigController - find user's groups
+[ERROR] 2017-11-29 09:47:54,292 com.huione.im.api.controller.GroupConfigController - nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+### The error may exist in file [C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes\mybatis\Group_Config_Mapper.xml]
+### The error may involve com.huione.im.api.dao.GroupConfigDao.select
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+[INFO ] 2017-11-29 09:55:07,359 com.huione.im.api.ImApplicationTests - Starting ImApplicationTests on DESKTOP-PHL0HAA with PID 14388 (started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-29 09:55:07,359 com.huione.im.api.ImApplicationTests - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-29 09:55:07,359 com.huione.im.api.ImApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-29 09:55:57,645 com.huione.im.api.ImApplicationTests - Starting ImApplicationTests on DESKTOP-PHL0HAA with PID 9324 (started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-29 09:55:57,645 com.huione.im.api.ImApplicationTests - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-29 09:55:57,646 com.huione.im.api.ImApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-29 09:57:35,297 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 12740 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-29 09:57:35,298 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-29 09:57:35,298 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-29 09:58:13,429 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 2368 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-29 09:58:13,429 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-29 09:58:13,429 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-29 09:59:33,386 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 12800 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-29 09:59:33,386 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-29 09:59:33,386 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-29 10:00:04,430 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 12636 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-29 10:00:04,431 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-29 10:00:04,431 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-29 10:00:27,049 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 16060 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-29 10:00:27,049 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-29 10:00:27,049 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-29 10:01:01,712 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 9724 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-29 10:01:01,712 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-29 10:01:01,712 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-29 10:01:27,473 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 8504 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-29 10:01:27,473 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-29 10:01:27,473 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-29 10:01:53,581 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 14120 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-29 10:01:53,581 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-29 10:01:53,581 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-29 10:02:18,994 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 13024 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-29 10:02:18,994 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-29 10:02:18,995 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-29 10:02:36,819 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 2228 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-29 10:02:36,819 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-29 10:02:36,819 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-29 10:02:59,020 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 13580 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-29 10:02:59,020 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-29 10:02:59,020 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-29 10:04:10,559 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 352 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-29 10:04:10,559 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-29 10:04:10,559 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-29 10:04:32,886 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 10972 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-29 10:04:32,886 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-29 10:04:32,886 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-29 10:04:56,903 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 2560 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-29 10:04:56,903 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-29 10:04:56,903 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-29 10:05:23,588 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 15968 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-29 10:05:23,588 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-29 10:05:23,589 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-29 10:05:29,115 com.huione.im.api.ImApplication - Started ImApplication in 5.805 seconds (JVM running for 6.768)
+[INFO ] 2017-11-29 10:05:58,715 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[INFO ] 2017-11-29 10:06:33,975 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-29 10:06:33,981 com.huione.im.api.controller.GroupConfigController - find user's groups
+[ERROR] 2017-11-29 10:07:03,186 com.huione.im.api.controller.GroupConfigController - nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Connections could not be acquired from the underlying database!
+### The error may exist in file [C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes\mybatis\Group_Config_Mapper.xml]
+### The error may involve com.huione.im.api.dao.GroupConfigDao.select
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Connections could not be acquired from the underlying database!
+[INFO ] 2017-11-29 10:07:42,396 com.huione.im.api.ImApplicationTests - Starting ImApplicationTests on DESKTOP-PHL0HAA with PID 3368 (started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-29 10:07:42,396 com.huione.im.api.ImApplicationTests - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-29 10:07:42,397 com.huione.im.api.ImApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-29 10:08:29,390 com.huione.im.api.ImApplicationTests - Starting ImApplicationTests on DESKTOP-PHL0HAA with PID 4144 (started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-29 10:08:29,390 com.huione.im.api.ImApplicationTests - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-29 10:08:29,390 com.huione.im.api.ImApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-29 10:08:33,332 com.huione.im.api.ImApplicationTests - Started ImApplicationTests in 4.237 seconds (JVM running for 5.46)
+[INFO ] 2017-11-29 10:10:35,214 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 9916 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-29 10:10:35,215 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-29 10:10:35,216 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-29 10:10:40,282 com.huione.im.api.ImApplication - Started ImApplication in 5.337 seconds (JVM running for 6.248)
+[INFO ] 2017-11-29 10:10:47,720 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-29 10:10:47,740 com.huione.im.api.controller.GroupConfigController - find user's groups
+[ERROR] 2017-11-29 10:11:16,900 com.huione.im.api.controller.GroupConfigController - nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Connections could not be acquired from the underlying database!
+### The error may exist in file [C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes\mybatis\Group_Config_Mapper.xml]
+### The error may involve com.huione.im.api.dao.GroupConfigDao.select
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Connections could not be acquired from the underlying database!
+[INFO ] 2017-11-29 10:28:39,358 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 12996 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-29 10:28:39,359 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-29 10:28:39,359 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-29 10:28:43,816 com.huione.im.api.ImApplication - Started ImApplication in 4.748 seconds (JVM running for 5.69)
+[INFO ] 2017-11-29 10:32:55,538 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 3580 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-29 10:32:55,538 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-29 10:32:55,538 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-29 10:32:59,797 com.huione.im.api.ImApplication - Started ImApplication in 4.521 seconds (JVM running for 5.471)
+[INFO ] 2017-11-29 10:33:07,895 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-29 10:33:07,906 com.huione.im.api.controller.GroupConfigController - find user's groups
+[DEBUG] 2017-11-29 10:33:08,415 com.huione.im.api.controller.GroupConfigController - data found
+[INFO ] 2017-11-29 10:34:11,964 com.huione.im.api.ImApplicationTests - Starting ImApplicationTests on DESKTOP-PHL0HAA with PID 8996 (started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-29 10:34:11,964 com.huione.im.api.ImApplicationTests - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-29 10:34:11,965 com.huione.im.api.ImApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-29 10:34:15,913 com.huione.im.api.ImApplicationTests - Started ImApplicationTests in 4.239 seconds (JVM running for 5.414)
+[INFO ] 2017-11-30 16:04:35,014 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-30 16:04:44,917 com.huione.im.api.ImApplication - Started ImApplication in 11.406 seconds (JVM running for 12.599)
+[INFO ] 2017-11-30 16:32:16,221 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-30 16:32:25,201 com.huione.im.api.ImApplication - Started ImApplication in 10.629 seconds (JVM running for 11.811)
+[INFO ] 2017-11-30 16:35:15,954 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-30 16:35:15,979 com.huione.im.api.controller.GroupConfigController - find user's groups
+[DEBUG] 2017-11-30 16:35:16,480 com.huione.im.api.controller.GroupConfigController - data found
+[INFO ] 2017-11-30 17:00:42,826 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-30 17:01:02,760 com.huione.im.api.ImApplication - Started ImApplication in 21.908 seconds (JVM running for 23.094)
+[INFO ] 2017-11-30 17:10:25,367 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-30 17:10:35,202 com.huione.im.api.ImApplication - Started ImApplication in 11.554 seconds (JVM running for 12.705)
+[INFO ] 2017-11-30 17:12:55,226 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[INFO ] 2017-11-30 17:13:11,470 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-30 17:13:11,474 com.huione.im.api.controller.GroupConfigController - find user's groups
+[DEBUG] 2017-11-30 17:13:11,982 com.huione.im.api.controller.GroupConfigController - data found
+[INFO ] 2017-12-01 14:18:08,857 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-12-01 14:18:14,692 com.huione.im.api.ImApplication - Started ImApplication in 7.252 seconds (JVM running for 8.355)
+[INFO ] 2017-12-01 14:19:26,602 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-12-01 14:19:26,660 com.huione.im.api.controller.GroupConfigController - verify group duplicate
+[INFO ] 2017-12-01 14:19:27,404 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-12-01 14:19:27,406 com.huione.im.api.controller.GroupConfigController - verify group duplicate
+[DEBUG] 2017-12-01 14:19:28,352 com.huione.im.api.controller.GroupConfigController - begin save data
+[DEBUG] 2017-12-01 14:19:28,361 com.huione.im.api.controller.GroupConfigController - begin save data
+[ERROR] 2017-12-01 14:19:28,585 com.huione.im.api.controller.GroupConfigController - exception
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '222224-85569780180' for key 'idx_group_user_id'
+### The error may involve com.huione.im.api.dao.GroupConfigDao.save-Inline
+### The error occurred while setting parameters
+### SQL: insert into im_group_config(id, group_id, group_name, user_id, user_phone, expired_date, dissolve_type)      values(?,?,?,?,?,?,? )
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '222224-85569780180' for key 'idx_group_user_id'
+; SQL []; Duplicate entry '222224-85569780180' for key 'idx_group_user_id'; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '222224-85569780180' for key 'idx_group_user_id'
+[INFO ] 2017-12-01 14:20:33,969 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-12-01 14:20:33,971 com.huione.im.api.controller.GroupConfigController - begin update group
+[INFO ] 2017-12-01 14:20:42,696 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-12-01 14:20:42,697 com.huione.im.api.controller.GroupConfigController - begin delete group
+[INFO ] 2017-12-01 14:20:54,764 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-12-01 14:20:54,766 com.huione.im.api.controller.GroupConfigController - verify group duplicate
+[DEBUG] 2017-12-01 14:20:54,769 com.huione.im.api.controller.GroupConfigController - begin save data

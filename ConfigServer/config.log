@@ -1,0 +1,9 @@
+[INFO ] 2017-12-01 14:32:32,968 com.huione.im.config.ConfigServerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-12-01 14:33:24,702 com.huione.im.config.ConfigServerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-12-01 14:33:32,643 com.huione.im.config.ConfigServerApplication - Started ConfigServerApplication in 9.752 seconds (JVM running for 10.848)
+[INFO ] 2017-12-01 14:43:30,650 com.huione.springcloud.config.ConfigServerApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-12-01 14:43:35,526 com.huione.springcloud.config.ConfigServerApplicationTests - Started ConfigServerApplicationTests in 6.345 seconds (JVM running for 7.55)
+[INFO ] 2017-12-01 14:46:14,715 com.huione.springcloud.config.ConfigServerApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-12-01 14:46:20,031 com.huione.springcloud.config.ConfigServerApplicationTests - Started ConfigServerApplicationTests in 6.876 seconds (JVM running for 8.085)
+[INFO ] 2017-12-01 14:53:36,895 com.huione.im.config.ConfigServerApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-12-01 14:53:41,908 com.huione.im.config.ConfigServerApplication - Started ConfigServerApplication in 6.479 seconds (JVM running for 7.578)

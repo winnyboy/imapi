@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.huione.im.api.dao.OrgInfoDao">
+	<resultMap type="OrgInfo" id="orgInfoMap">
+        <!-- 用id属性来映射主键字段 -->
+        <id property="id" column="id"/>
+        <result property="orgName" column="org_name"/>
+        <result property="orgType" column="org_type"/>
+        <result property="parentId" column="parent_id"/>
+        <result property="position" column="position"/>
+        <result property="emp_name" column="empName"/>
+        <result property="email" column="email"/>
+        <result property="createDate" column="create_date"/>
+        <result property="updateTime" column="update_time"/>
+        <result property="enabledFlag" column="enabled_flag"/>
+    </resultMap>
+    
+
+    <select id="select" resultMap="orgInfoMap" parameterType="OrgInfo">
+        select id,org_name,org_type,parent_id,create_time,update_time,enabled_flag,
+        		position,emp_name,email
+        from im_org_info  where enabled_flag='Y' 
+        	<if test="parentId != null and parentId != ''">
+        		and parent_id=#{parentId}
+        	</if>
+        	<if test="orgName != null and orgName != ''">
+        		and org_name=#{orgName}
+        	</if>
+        	<if test="id != null and id != ''">
+        		and id=#{id}
+        	</if>
+    </select>
+    
+    <insert id="save" parameterType="OrgInfo">
+    	insert into im_org_info(id, org_name, org_type, parent_id,position,emp_name,email)
+    	values(#{id},#{orgName},#{orgType},#{parentId},#{position},#{empName},#{email} )
+    </insert>
+    
+    <update id="update" parameterType="OrgInfo">
+    	update im_org_info
+    	<trim prefix="set" suffixOverrides=",">
+		  <if test="parentId!=null">parent_id=#{parentId},</if>
+		  <if test="position!=null">position=#{position},</if>
+		  <if test="empName">emp_name=#{empName},</if>
+		  <if test="email">email=#{email},</if>
+		 </trim>
+		 where org_name=#{orgName} 
+    </update>
+    
+    <delete id="delete" parameterType="OrgInfo">
+    	delete from im_org_info where org_name=#{orgName} 
+    </delete>
+</mapper>

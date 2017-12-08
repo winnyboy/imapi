@@ -1,0 +1,31 @@
+[INFO ] 2017-11-17 16:46:12,974 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 5740 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-17 16:46:12,974 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-17 16:46:12,975 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-17 16:48:20,926 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 5596 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-17 16:48:20,927 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-17 16:48:20,928 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-17 16:55:08,556 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 4716 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-17 16:55:08,556 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-17 16:55:08,557 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-17 16:55:13,821 com.huione.im.api.ImApplication - Started ImApplication in 5.554 seconds (JVM running for 6.489)
+[INFO ] 2017-11-17 16:55:27,694 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-17 16:55:27,713 com.huione.im.api.controller.ApiController - find user's groups
+[DEBUG] 2017-11-17 16:55:28,066 com.huione.im.api.controller.ApiController - data found
+[INFO ] 2017-11-17 16:58:09,386 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 8844 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-17 16:58:09,386 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-17 16:58:09,387 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-17 16:58:13,443 com.huione.im.api.ImApplication - Started ImApplication in 4.344 seconds (JVM running for 5.289)
+[INFO ] 2017-11-17 16:58:26,585 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-17 16:58:26,600 com.huione.im.api.controller.ApiController - find user's groups
+[DEBUG] 2017-11-17 16:58:26,982 com.huione.im.api.controller.ApiController - data found
+[INFO ] 2017-11-17 17:03:59,820 com.huione.im.api.ImApplication - Starting ImApplication on DESKTOP-PHL0HAA with PID 11848 (C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im\target\classes started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-17 17:03:59,820 com.huione.im.api.ImApplication - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-17 17:03:59,820 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-17 17:04:04,298 com.huione.im.api.ImApplication - Started ImApplication in 4.758 seconds (JVM running for 5.775)
+[INFO ] 2017-11-17 17:04:14,134 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-11-17 17:04:14,154 com.huione.im.api.controller.ApiController - find user's groups
+[DEBUG] 2017-11-17 17:04:14,539 com.huione.im.api.controller.ApiController - data found
+[INFO ] 2017-11-17 17:05:41,251 com.huione.im.api.ImApplicationTests - Starting ImApplicationTests on DESKTOP-PHL0HAA with PID 6772 (started by Sunny in C:\Users\Sunny\Documents\workspace-sts-3.8.3.RELEASE\im)
+[DEBUG] 2017-11-17 17:05:41,251 com.huione.im.api.ImApplicationTests - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+[INFO ] 2017-11-17 17:05:41,252 com.huione.im.api.ImApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-11-17 17:05:44,677 com.huione.im.api.ImApplicationTests - Started ImApplicationTests in 3.701 seconds (JVM running for 4.961)

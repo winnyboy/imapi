@@ -1,0 +1,20 @@
+[INFO ] 2017-12-01 14:34:12,791 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-12-01 14:34:20,602 com.huione.im.api.ImApplication - Started ImApplication in 9.8 seconds (JVM running for 10.889)
+[INFO ] 2017-12-01 14:35:10,912 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-12-01 14:35:10,925 com.huione.im.api.controller.GroupConfigController - verify group duplicate
+[DEBUG] 2017-12-01 14:35:11,480 com.huione.im.api.controller.GroupConfigController - begin save data
+[INFO ] 2017-12-01 14:35:34,097 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-12-01 14:35:34,098 com.huione.im.api.controller.GroupConfigController - find user's groups
+[DEBUG] 2017-12-01 14:35:34,108 com.huione.im.api.controller.GroupConfigController - data found
+[INFO ] 2017-12-01 14:35:46,537 com.huione.im.api.interceptor.ApiInterceptor - auth successful
+[DEBUG] 2017-12-01 14:35:46,538 com.huione.im.api.controller.GroupConfigController - begin delete group
+[INFO ] 2017-12-01 14:51:09,857 com.huione.im.api.ImApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-12-01 14:51:13,686 com.huione.im.api.ImApplicationTests - Started ImApplicationTests in 5.364 seconds (JVM running for 6.718)
+[INFO ] 2017-12-01 14:53:50,425 com.huione.im.api.ImApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-12-01 14:53:56,251 com.huione.im.api.ImApplication - Started ImApplication in 7.249 seconds (JVM running for 8.348)
+[INFO ] 2017-12-01 15:49:18,869 com.huione.im.api.ImApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-12-01 15:49:23,037 com.huione.im.api.ImApplicationTests - Started ImApplicationTests in 5.835 seconds (JVM running for 7.184)
+[INFO ] 2017-12-01 15:50:34,222 com.huione.im.api.ImApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-12-01 15:50:38,050 com.huione.im.api.ImApplicationTests - Started ImApplicationTests in 5.339 seconds (JVM running for 6.621)
+[INFO ] 2017-12-07 10:06:21,923 com.huione.im.api.ImApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-12-07 10:06:25,728 com.huione.im.api.ImApplicationTests - Started ImApplicationTests in 5.452 seconds (JVM running for 6.938)

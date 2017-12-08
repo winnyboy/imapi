@@ -1,0 +1,10 @@
+[INFO ] 2017-12-01 14:34:37,462 com.huione.im.api.ServiceFeignApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-12-01 14:34:43,491 com.huione.im.api.ServiceFeignApplication - Started ServiceFeignApplication in 7.543 seconds (JVM running for 8.6)
+[INFO ] 2017-12-01 14:52:34,764 com.huione.im.feign.ServiceFeignApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-12-01 14:52:41,470 com.huione.im.feign.ServiceFeignApplicationTests - Started ServiceFeignApplicationTests in 8.124 seconds (JVM running for 9.451)
+[INFO ] 2017-12-01 14:54:08,664 com.huione.im.feign.ServiceFeignApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-12-01 14:54:13,374 com.huione.im.feign.ServiceFeignApplicationTests - Started ServiceFeignApplicationTests in 6.121 seconds (JVM running for 7.528)
+[INFO ] 2017-12-01 14:56:18,044 com.huione.im.feign.ServiceFeignApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-12-01 14:56:22,572 com.huione.im.feign.ServiceFeignApplicationTests - Started ServiceFeignApplicationTests in 5.892 seconds (JVM running for 7.208)
+[INFO ] 2017-12-01 15:47:08,301 com.huione.im.feign.ServiceFeignApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2017-12-01 15:47:12,934 com.huione.im.feign.ServiceFeignApplicationTests - Started ServiceFeignApplicationTests in 5.901 seconds (JVM running for 7.194)
